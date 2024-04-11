@@ -42,4 +42,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-**Note**: This repository is maintained by [Your Name/Username](https://github.com/yourusername). If you have any questions or suggestions, feel free to reach out!
+**Note**: This repository is maintained by [Amir Sarrafzadeh Arasi](https://github.com/AmirSarrafzadeh). If you have any questions or suggestions, feel free to reach out!
